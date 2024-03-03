@@ -1,0 +1,642 @@
+
+{
+    "enriched_pasta": [
+      {
+        "name": "Fusilli tricolore",
+        "price": {"500g": 169},
+        "description": "A twisted healthy companion perfect for baked dishes made with sauce and cheese...",
+        "ingredients": ["Durum Wheat Semolina", "Water", "Tomato and Spinach extracts"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Enriched with Spinach and Tomato, Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      },
+      {
+        "name": "Multi Millet Penne",
+        "price": {"500g": 249},
+        "description": "Our Multi-Millet Penne is a unique twist on the beloved pasta staple...",
+        "ingredients": ["70% Durum Wheat Semolina", "30% Millet Flour (10% Jowar, 10% Bajra, and 10% Ragi)", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "12 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Enriched Pasta, 100% Eggless and made from Durum Wheat Semolina and Millets Flour (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      },
+      {
+        "name": "Quino Fusilli",
+        "price": {"500g": 299},
+        "description": "Enjoy a delicious, healthier pasta experience with the Quinoa Fusilli...",
+        "ingredients": ["70% Durum Wheat Semolina", "30% Quinoa Flour", "Xanthan Gum", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "12 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Enriched Pasta, 100% Eggless and made from Durum Wheat Semolina and Quinoa Flour (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      },
+      {
+        "name": "Whole Wheat Fusilli",
+        "price": {"500g": 169},
+        "description": "Gustora Whole Wheat Fusilli is a delicious, nutritious pasta made from 100% Durum Whole Wheat Semolina...",
+        "ingredients": ["Durum Whole Wheat Semolina", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Enriched Pasta, 100% Eggless and made from Durum Whole Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      },
+      {
+        "name": "Whole Wheat Penne",
+        "price": {"500g": 169},
+        "description": "Gustora Whole Wheat Penne is the perfect choice for classic Italian dishes...",
+        "ingredients": ["Durum Whole Wheat Semolina", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Enriched Pasta, 100% Eggless and made from Durum Whole Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      },
+      {
+        "name": "Whole Wheat Spaghetti",
+        "price": {"500g": 169},
+        "description": "Gustora Whole Wheat Spaghetti is made from 100% Whole Wheat Semolina...",
+        "ingredients": ["Durum Whole Wheat Semolina", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Enriched Pasta, 100% Eggless and made from Durum Whole Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 500g"
+      }
+    ],
+    "instant_pasta": [
+      {
+        "name": "Cream and Cheese Instant Pasta",
+        "price": {"65g": 25, "pack_of_4": 100},
+        "description": "It’s cheesy, it’s creamy and it’s so simple and quick. You can have this pasta in your dish just only in 5 minutes...",
+        "ingredients": ["Durum Wheat Semolina", "Water", "Sauce Maker contains Common Salt, Milk Solids, Spices and Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in single pack of 65 grams and set of 4"
+      },
+      {
+        "name": "Pesto with Basil Instant Pasta",
+        "price": {"65g": 25, "pack_of_4": 100},
+        "description": "If you are bored of the same old dishes of pasta, try our new Pesto with Basil Instant Pasta...",
+        "ingredients": ["Durum Wheat Semolina", "Water", "Sauce Maker contains Common Salt, Milk Solids, Spices and Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in single pack of 65 grams and set of 4"
+      },
+      {
+        "name": "Quick Cook Rigatoni",
+        "price": {"200g": 69},
+        "description": "The word rigatoni comes from the Italian word rigato which means “ridged” or “lined”...",
+        "ingredients": ["Durum Wheat Semolina", "Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 200 grams"
+      },
+      {
+        "name": "Tomato and Basil Pasta",
+        "price": {"65g": 25, "pack_of_4": 100},
+        "description": "Enjoy the freshness of tomatoes & benefits of basil in your pasta dish, now in just 5 minutes...",
+        "ingredients": ["Durum Wheat Semolina", "Water", "Sauce Maker contains Common Salt, Milk Solids, Spices and Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in single pack of 65 grams and set of 4"
+      }
+    ],
+    "ketchup": [
+      {
+        "name": "Tomato Ketchup",
+        "price": {"400g": 69},
+        "description": "Our Tomato Ketchup is made with juicy, fresh tomatoes and cooked in-house according to authentic recipes...",
+        "ingredients": ["Water", "Tomato paste", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Onion Powder", "Garlic Powder", "Mixed Spices & Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Packaging (Mini Jar & Sachet Shelf Life - 6 months)",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+        "specialty": "No added colours, no added flavours, perfect blend of spices with rich juicy tomatoes to give it a savoury taste.",
+        "special_feature": "Ketchup involves the selection of premium quality raw materials and ingredients along with the combination of time and temperature, cooked to perfection.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 400g Tabletop Bottle, 28g Mini Glass Jar, 8g sachets, 1kg family refill pack & 5kg institutional jerry can"
+      },
+      {
+        "name": "Tomato Ketchup Institutional Pack",
+        "price": {
+          "5kg": "399 rupees"
+        },
+        "description": "Our Tomato Ketchup is made with juicy, fresh tomatoes and cooked in-house according to authentic recipes...",
+        "ingredients": ["Water", "Tomato paste", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Onion Powder", "Garlic Powder", "Mixed Spices & Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Packaging (Mini Jar & Sachet Shelf Life - 6 months)",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+        "specialty": "No added colours, no added flavours, perfect blend of spices with rich juicy tomatoes to give it a savoury taste.",
+        "special_feature": "Ketchup involves the selection of premium quality raw materials and ingredients along with the combination of time and temperature, cooked to perfection.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 400g Tabletop Bottle, 28g Mini Glass Jar, 8g sachets, 1kg family refill pack & 5kg institutional jerry can"
+      },
+      {
+        "name": "Tomato Ketchup No Onion No Garlic",
+        "price": {
+          "950g": "139 rupees"
+        },
+        "description": "Our Tomato Ketchup is made with juicy, fresh tomatoes and cooked in-house according to authentic recipes...",
+        "ingredients": ["Water", "Tomato paste", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Mixed Spices & Condiments"],
+        "feature": "Vegetarian, Jain-friendly, No Onion, No Garlic",
+        "shelf_life": "9 Months from the Date of Packaging",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+        "specialty": "No added colours, no added flavours, perfect blend of spices with rich juicy tomatoes to give it a savoury taste.",
+        "special_feature": "Ketchup involves the selection of premium quality raw materials and ingredients along with the combination of time and temperature, cooked to perfection.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 950g family refill pack"
+      },
+      {
+        "name": "Tomato Ketchup Super Saver Pack",
+        "price": {
+          "1kg": "139 rupees"
+        },
+        "description": "Our Tomato Ketchup is made with juicy, fresh tomatoes and cooked in-house according to authentic recipes...",
+        "ingredients": ["Water", "Tomato paste", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Onion Powder", "Garlic Powder", "Mixed Spices & Condiments"],
+        "feature": "Vegetarian",
+        "shelf_life": "9 Months from the Date of Packaging (Mini Jar & Sachet Shelf Life - 6 months)",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+        "specialty": "No added colours, no added flavours, perfect blend of spices with rich juicy tomatoes to give it a savoury taste.",
+        "special_feature": "Ketchup involves the selection of premium quality raw materials and ingredients along with the combination of time and temperature, cooked to perfection.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 400g Tabletop Bottle, 28g Mini Glass Jar, 8g sachets, 1kg family refill pack & 5kg institutional jerry can"
+      }
+    ],
+    "kids_pasta": [
+      {
+        "name": "My Princess Kids Pasta",
+        "price": {
+          "250g": "79 rupees"
+        },
+        "description": "Made especially for the little ones, this range is full of different shapes that kids can’t avoid. Plus, with all-natural ingredients and no added flavours or colours...",
+        "ingredients": ["Durum Wheat Semolina and Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 250g"
+      },
+      {
+        "name": "My Toys Kids Pasta",
+        "price": {
+          "250g": "79 rupees"
+        },
+        "description": "Made especially for the little ones, this range is full of different shapes that kids can’t avoid. Plus, with all-natural ingredients and no added flavours or colours...",
+        "ingredients": ["Durum Wheat Semolina and Water"],
+        "feature": "Vegetarian",
+        "shelf_life": "24 Months from the Date of Manufacturing",
+        "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+        "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+        "special_feature": "Slow Drying process and use of Bronze Dies",
+        "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 250g"
+      }
+    ],
+    "pasta_sauce": [
+      {
+        "name": "Arrabiata Sauce",
+        "price": {
+          "200g": "109 rupees",
+          "400g": "199 rupees"
+        },
+        "description": "Enjoy authentic Italian flavour with Gustora Arrabbiata Pasta Sauce! Made from savoury tomatoes, wholesome ingredients like ginger, garlic and onion along a hint of spicy kick with black peppercorns and red chillies...",
+        "ingredients": ["Tomato paste", "Water", "Onion", "Garlic", "Ginger Paste", "Iodised Salt", "Sugar", "Black Pepper Powder", "Red Chilli Powder", "Red Capsicum", "Carrot", "Oregano", "Edible Oil", "Antioxidant", "Thickener"],
+        "feature": "Vegetarian",
+        "shelf_life": "12 Months from the Date of Packaging",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found leaked or cracked.",
+        "specialty": "A delicious blend of high quality and fresh ingredients with a hint of spice for the preparation of our Italian Pasta Sauces.",
+        "special_feature": "Using fresh vegetables and high quality sunflower oil for preparation that gives it a home-made feel with Italian touch.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 200 gm and 400 gm glass bottles"
+      },
+      {
+        "name": "Tomato and Basil Sauce",
+        "price": {
+          "200g": "109 rupees",
+          "400g": "199 rupees"
+        },
+        "description": "Enjoy authentic Italian flavour with Gustora Tomato and Basil Pasta Sauce! Made from the freshest tomatoes, fragrant basil leaves, and other delicious ingredients...",
+        "ingredients": ["Tomato paste", "Water", "Onion", "Garlic", "Iodised Salt", "Sugar", "Black Pepper Powder", "Red Chilli Powder", "Basil", "Edible Oil", "Antioxidant", "Thickener"],
+        "feature": "Vegetarian",
+        "shelf_life": "12 Months from the Date of Packaging",
+        "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found leaked or cracked.",
+        "specialty": "A delicious blend of high quality and fresh ingredients for the preparation of our Italian Pasta Sauces.",
+        "special_feature": "Using fresh vegetables and high quality sunflower oil for preparation that gives it a home-made feel with Italian touch.",
+        "nutrition": "Zero Cholesterol, Zero Trans Fat",
+        "pack_size": "Available in 200 gm and 400 gm glass bottles"
+      }
+    ],
+    "long_pasta": [
+        {
+          "name": "Fettuccine",
+          "price": {
+            "500g": "159 rupees"
+          },
+          "description": "Derived from the Old Italian word fettucce (string), fettuccine refers to flat pasta sheets cut into ribbon-like strands. Fettuccine is wider than linguine, and therefore better for catching tomato, cream and chunky sauces.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "Linguine",
+          "price": {
+            "500g": "159 rupees"
+          },
+          "description": "Linguine is a type of long pasta similar to Fettuccine but elliptical in section rather than flat. It is about 4 millimetres in width, which is wider than spaghetti but not as wide as fettuccine. The name linguine means 'little tongues' in Italian. They are sometimes also referred to as flattened Spaghetti. Made with 100% Durum Wheat Semolina",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "Spaghetti",
+          "price": {
+            "500g": "159 rupees"
+          },
+          "description": "Spaghetti is a long, thin, solid, cylindrical pasta, a staple food in traditional Italian cuisine. Spaghetti strands average between 25 to 30 cm long. Traditional Italian spaghetti is served with tomato sauce, simply seasoned with various herbs like basil and oregano. Spaghetti is made from 100% Durum Wheat Semolina.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "Spaghettoni",
+          "price": {
+            "500g": "159 rupees"
+          },
+          "description": "Spaghettoni is a slightly thicker version of the Classic Spaghetti. They are long, solid, cylindrical pasta, a staple food in traditional Italian cuisine. Spaghettoni strands average between 25 to 30 cm long. Spaghettoni is also traditionally served with tomato sauce, simply seasoned with various herbs like basil and oregano or the classic aglio e olio. Made with 100% Durum Wheat Semolina",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        }
+      ],
+      "sauce": [
+        {
+          "name": "Tomato Sauce Institutional Pack",
+          "price": {
+            "5kg": "349 rupees"
+          },
+          "description": "Our Tomato Sauce is a tangy condiment, made from juicy, fresh tomatoes and seasonal vegetable pulp, cooked in-house according to authentic recipes...",
+          "ingredients": ["Water", "Tomato paste", "Vegetable Pulp", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Onion Powder", "Garlic Powder", "Mixed Spices & Condiments"],
+          "feature": "Vegetarian",
+          "shelf_life": "12 Months from the Date of Packaging (8g Sachet Shelf Life - 6 months)",
+          "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+          "specialty": "A perfect blend of rich tomato puree, seasonal fruits and vegetable pulp and a hand-picked selection of spices. Enrich the flavour of your favourite snacks with their spicy, tangy taste.",
+          "special_feature": "Tomato Sauce is our unique blend of juicy tomatoes and vegetables along with the combination of time and temperature, cooked to perfection.",
+          "nutrition": "Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 8g sachets & 5kg institutional jerry can."
+        },
+        {
+          "name": "Tomato Sauce Sachets",
+          "price": {
+            "pack_of_100": "100 rupees"
+          },
+          "description": "Our Tomato Sauce is a tangy condiment, made from juicy, fresh tomatoes and seasonal vegetable pulp, cooked in-house according to authentic recipes...",
+          "ingredients": ["Water", "Tomato paste", "Vegetable Pulp", "Sugar", "Iodised Salt", "Acidity Regulator", "Stabiliser", "Onion Powder", "Garlic Powder", "Mixed Spices & Condiments"],
+          "feature": "Vegetarian",
+          "shelf_life": "12 Months from the Date of Packaging (8g Sachet Shelf Life - 6 months)",
+          "storage_instructions": "Store in a clean, hygienic & dry place. Keep away from sunlight. Do not consume if found bloated.",
+          "specialty": "A perfect blend of rich tomato puree, seasonal fruits and vegetable pulp and a hand-picked selection of spices. Enrich the flavour of your favourite snacks with their spicy, tangy taste.",
+          "special_feature": "Tomato Sauce is our unique blend of juicy tomatoes and vegetables along with the combination of time and temperature, cooked to perfection.",
+          "nutrition": "Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 8g sachets & 5kg institutional jerry can."
+        }
+      ],
+      "specialty_pasta": [
+        {
+          "name": "CANNOLICCHI",
+          "price": {
+            "500g": "249 rupees"
+          },
+          "description": "Cannolicchi is inspired by the typical razor shells from clams of the Adriatic Sea. This short tube pasta mimics that shape. It is a tight, twisted flat strip of pasta with edges that keeps its beautiful shape once cooked, capturing the sauce in the middle. This beautiful pasta is ideal to accompany a wide variety of condiments, from those based on vegetables to those more full-bodied chunky sauces.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in premium box of 500 grams"
+        },
+        {
+          "name": "CONCHIGLIONI",
+          "price": {
+            "250g": "249 rupees"
+          },
+          "description": "The largest shell shape pasta is called conchiglioni. These are large, graceful, concave pasta shape inspired by sea shells and are perfect for stuffed and baked recipes. Made with 100% Durum Wheat Semolina, they are perfect for robust and highly flavourful pasta sauces and the most sumptuous and creative fillings. Available in a premium box of 250 grams.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in premium box of 250 grams"
+        },
+        {
+          "name": "LASAGNE",
+          "price": {
+            "500g": "299 rupees"
+          },
+          "description": "Introducing the King of Pasta Dinners – the Italian Holy Grail: Lasagne. Gustora brings you luscious pasta sheets of Lasagne; boil them ‘al dente’, layer them up with cheesy sauces and your favourite vegetables, bake it to perfection and enjoy the heavenly blessings of the Pasta Gods with your family. Our Lasagna is made from 100% Durum Wheat Semolina using traditional Bronze dies and slow drying processes.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in premium box of 500 grams"
+        },
+        {
+          "name": "PACCHERI",
+          "price": {
+            "250g": "249 rupees"
+          },
+          "description": "Paccheri (also called schiaffoni) is a traditional Neapolitan pasta which looks like giant pieces of a cut-up garden hose! Made with 100% Durum Wheat Semolina, these short wide pasta tubes are usually served with rich heavier sauces or seafood. They are very often stuffed with ricotta or other ingredients and baked in parts of Italy. Available in a premium box of 250 grams.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in premium box of 250 grams"
+        },
+        {
+          "name": "RIGATONI",
+          "price": {
+            "400g": "249 rupees"
+          },
+          "description": "The word rigatoni comes from the Italian word rigato which means “ridged” or “lined”. Rigatoni is a particular favourite pasta shape in the south of Italy, especially in Sicily. Its eponymous ridges make better adhesive surfaces for sauces and grated cheese. Tackle an Italian classic with Gustora Rigatoni. A quick chunky tomato sauce, a baking dish arranged with Rigatoni, topped with lots of cheese, will have you savouring the flavours of pasta al forno in no time.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in premium box of 400 grams"
+        }
+      ],
+      "short_pasta": [
+        {
+          "name": "AMORI",
+          "price": {
+            "500g": "149 rupees"
+          },
+          "description": "Amori are curled, ridged hollow tubes of pasta that look like corkscrew macaroni. Other names for Amori include Cavatappi, Cellantani, Torselli, Serpentini, etc. but we fondly call it the spiral of love! This tubular shaped pasta come from Southern Italy originally and are an adaptable shape suited to many types of pasta sauce. They taste best in pasta dishes that are baked, or have creamy sauces.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "CONCHIGLIE",
+          "price": {
+            "500g": "149 rupees",
+            "5kg": "999 rupees"
+          },
+          "description": "Popular shell-shaped small pasta, literally translated as conch shells has a ridged surface which is good for catching the sauce within its cavity. Conchiglie are often served with delicious cream or sumptuous tomato sauces. It is available in several sizes and the largest shells of this type are called conchiglioni.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g and 5kg"
+        },
+        {
+          "name": "ELBOW",
+          "price": {
+            "500g": "149 rupees"
+          },
+          "description": "A short, curved and smooth surface macaroni often served with plenty of cheese. The smaller size of Elbow pasta makes it perfect for dishes like mac n' cheese, pasta salads, stir-fry and other casserole recipes.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "FARFALLE",
+          "price": {
+            "500g": "169 rupees"
+          },
+          "description": "The name 'Farfalle' pasta is derived from the Italian word 'farfalle' meaning butterflies. Gustora is the biggest manufacturer of Farfalle pasta in India. Farfalle is used in traditional Italian hot preparations, topped with creamy tomato sauce, cream sauce, or simple lemon-garlic sauce, with vegetables added in. It is also popular in cold dishes, made into a pasta salad with vegetables like tomato, cucumber, olives, and/or cubed feta cheese or mozzarella. Also commonly known as bow-tie pasta or butterfly pasta.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "FUSILLI",
+          "price": {
+            "500g": "149 rupees",
+            "200g": "69 rupees",
+            "5kg": "999 rupees"
+          },
+          "description": "Made from 100% Durum Wheat Semolina. Fusilli is a variety of pasta that are formed into corkscrew or helical shapes. The word 'fusilli' comes from fuso ('spindle'), as it is 'spun' and twisted in the bronze die in a corkscrew shape. Because of its twists, it has grooves that are good for holding onto sauce. Fusilli works well with any sauce, added to soups, or turned into a salad. This shape also bakes well in a casserole. Other names for Fusilli are Spirali, Rotini and Eliche.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 200g, 500g, and 5kg"
+        },
+        {
+          "name": "LOOPS OF SOUP",
+          "price": {
+            "100g": "20 rupees",
+            "PACK OF 5": "100 rupees"
+          },
+          "description": "Prepare the quickest possible one-pot Pasta dish with Gustora’s Loops for Soup. From kids to adults, we all love Pasta and adding Pasta to soup just makes the perfect sense. It’s a warm cozy Italian hug in soothing Tomato Soup.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 100g and set of 5"
+        },
+        {
+          "name": "MACARONI",
+          "price": {
+            "500g": "149 rupees",
+            "5kg": "999 rupees"
+          },
+          "description": "Experience gourmet restaurant-style Macaroni with our all-time classic ridged and curved Gustora Macaroni. Its ingenious shape allows for maximum creaminess and flavour, trapping your favorite sauces and dressings inside for an irresistible taste. Perfect for mac n' cheese, pasta salads, and baked dishes. Satisfy your craving for deliciousness with this top-shelf pasta made from 100% Durum Wheat Semolina. It's artisanally produced with traditional bronze dies and slow dried for an unbeatable taste. You don't have to be a gourmet chef to serve up a mouthwatering masterpiece - just get your hands on Gustora Macaroni!",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g and 5kg"
+        },
+        {
+          "name": "MINI FUSILLI",
+          "price": {
+            "500g": "149 rupees"
+          },
+          "description": "Mini Fusilli pasta is perfect to thrill kids as well as grown-ups. This is made up of small wings melodiously twisted on themselves, in a joyful spiral shape. It was created from the idea of rolling spaghetti around a knitting-needle. It is also referred to as Fusillini. Mini Fusilli is well matched with vegetable sauces",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "PENNE RIGATE",
+          "price": {
+            "500g": "149 rupees",
+            "200g": "69 rupees",
+            "5kg": "999 rupees"
+          },
+          "description": "One of the most famous Italian pasta shapes and loved across Italy, Penne, which means 'pen' in Italian, gets its name from its shape. The tube-shape with angled ends was inspired by the quill of an old style ink pen. Penne’s large diameter and ridges make it ideal for retaining sauces on its entire surface. Penne pairs well with chunky or vegetable-based sauces because its ridges can easily capture the sauce. Penne is also frequently used in dairy-based sauce or baked casserole dishes.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 200g, 500g, and 5kg"
+        },
+        {
+          "name": "PIPE RIGATE",
+          "price": {
+            "500g": "149 rupees"
+          },
+          "description": "Pronounced ‘PEE-pay’, this means pipes in Italian. Therefore, ‘pipe’ are small, chunky pasta shapes that resemble mini smoking pipes (think Sherlock Holmes). The ridges on the outer surface offer perfect absorption of sauces. The hollow curved pasta shape also looks similar to a snail shell. It has a wide opening at one end and the other end has a flattened opening which work well for chunky and thick sauces as the material gets captured inside the shell for a wholesome bite.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        },
+        {
+          "name": "PRIMORA FUSILLI",
+          "price": {
+            "500g": "199 rupees",
+            "5kg": "799 rupees"
+          },
+          "description": "Indulge in the 'ultimate Esperienza Italiana'. Fusilli is a variety of pasta that are formed into corkscrew or helical shapes. The word 'fusilli' comes from fuso ('spindle'), as it is 'spun' and twisted in the bronze die in a corkscrew shape. Because of its twists, it has grooves that are good for holding onto sauce. Fusilli works well with any sauce, added to soups, or turned into a salad. This shape also bakes well in a casserole. Other names for Fusilli are Spirali, Rotini and Eliche. Available in a value pack of 1 kg and institutional pack of 5 kg.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 200g, 500g, and 5kg"
+        },
+        {
+          "name": "PRIMORA MACARONI",
+          "price": {
+            "1kg": "199 rupees",
+            "5kg": "799 rupees"
+          },
+          "description": "Indulge in the 'ultimate Esperienza Italiana.' Discover the timeless classic of Primora Macaroni! This family pack of elbow macaroni is made from the finest Durum wheat semolina and bronze extruded for that al dente texture. Slow-dried for optimum flavor, this pasta is perfect for all your macaroni recipes. Serve it up with your favorite sauce or create a macaroni and cheese masterpiece. Available in a value pack of 1 kg and institutional pack of 5 kg.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 1kg and 5kg"
+        },
+        {
+          "name": "RED RIGATE",
+          "price": {
+            "500g": "149 rupees"
+          },
+          "description": "Experience the rich Italian flavours with Primora Red Rigate. Delight your taste buds with the wholesome goodness of durum wheat semolina and the vibrant hue of red. The special ridges on the surface ensure that every bit of sauce is captured, giving you a burst of flavour in every mouthful. This pasta is perfect for classic Italian dishes and hearty sauces. Bring the essence of Italy to your table with Primora Red Rigate.",
+          "ingredients": ["Durum Wheat Semolina and Water"],
+          "feature": "Vegetarian",
+          "shelf_life": "24 Months from the Date of Manufacturing",
+          "storage_instructions": "Store in a cool, dry place away from direct sunlight, sources of moisture & humidity.",
+          "specialty": "Artisanal Pasta, 100% Eggless and made from Durum Wheat Semolina (No Maida)",
+          "special_feature": "Slow Drying process and use of Bronze Dies",
+          "nutrition": "Rich in Fibre, High in Protein, Zero Cholesterol, Zero Trans Fat",
+          "pack_size": "Available in 500g"
+        }
+      ]
+  }
+
+

@@ -4,7 +4,7 @@ const MongoClient = require('mongodb').MongoClient;
 async function getEmbedding(query) {
     // Define the OpenAI API url and key.
     const url = 'https://api.openai.com/v1/embeddings';
-    const openai_key = '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'; // Replace with your OpenAI key.
+    const openai_key = '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'; // Replace with your OpenAI key.
     
     // Call OpenAI API to get the embeddings.
     let response = await axios.post(url, {
@@ -25,7 +25,7 @@ async function getEmbedding(query) {
 }
 
 async function findSimilarDocuments(embedding) {
-    const url = 'mongodb+srv://prathamalekar21:Pratham%4006@cluster0.fn9ec4g.mongodb.net/?retryWrites=true&w=majority'; // Replace with your MongoDB url.
+    const url = 'mongodb+srv://prathamalekar21:<password>@cluster0.fn9ec4g.mongodb.net/?retryWrites=true&w=majority'; // Replace with your MongoDB url.
     const client = new MongoClient(url);
     
     try {
@@ -52,7 +52,7 @@ async function findSimilarDocuments(embedding) {
 }
 
 async function main() {
-    const query = 'a boy and a dog'; // Replace with your query.
+    const query = 'What is my order status?'; // Replace with your query.
     
     try {
         const embedding = await getEmbedding(query);
